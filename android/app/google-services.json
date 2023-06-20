@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "657196007374",
+    "project_id": "sighn-cdb80",
+    "storage_bucket": "sighn-cdb80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657196007374:android:21c87079c718dacc06759f",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657196007374-ia0bd8jrmj9rpgi10eu9t476r5igghvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaselogin",
+            "certificate_hash": "e30ad3319865abd45d4360efff3fec346117a9e4"
+          }
+        },
+        {
+          "client_id": "657196007374-rhpa5aip9pfvejuditual8kk0kbjenrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkjWU4VpQw496VGua-3hUyJQGhJmcFMaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657196007374-nlr4run2tnn0o8qjv5f9a8aog30151rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
